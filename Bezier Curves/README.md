@@ -4,4 +4,5 @@ Skeleton code was provided by Professor Tamar Shinar, CS130 UCR. I implemented s
 
 To run this program, there is a makefile. Simply running 'make' will create the executable file 'bezier'.  
 Run  
-./bezier
+./bezier  
+Output can be seen via my uploaded YouTube video: https://youtu.be/MeHuonMNR-o
